@@ -10,3 +10,4 @@
 	strcopy
 	strrev
 
+fflush(stdin); //vacía el buffer
