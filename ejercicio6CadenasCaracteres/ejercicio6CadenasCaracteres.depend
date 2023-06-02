@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685632956 source:c:\users\administrador\desktop\programasc\ejercicio6cadenascaracteres\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+

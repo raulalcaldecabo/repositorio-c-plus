@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685624731 source:c:\users\administrador\desktop\programasc\ejercicio2math\main.cpp
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,12 @@
+<conio.h> getch(); para no cerrar exe
+
+<stdlib.h>  función system("pause");
+	atoi()convierte cadenas a numeros
+	atof()flotantes
+
+<string.h> librerias cadenas caracteres
+	strlen para contar el tamaño de una cadena de caracteres
+	strcat
+	strcopy
+	strrev
+
