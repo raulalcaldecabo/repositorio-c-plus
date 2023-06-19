@@ -6,7 +6,7 @@ int main()
 {
     int numero, unidades, decenas, centenas, millares;
 
-    cout<<"añada un numero: "; cin>>numero;
+    cout<<"aÅ„ada un numero: "; cin>>numero;
 
     unidades= numero%10; numero/=10;
     decenas= numero%10; numero/=10;
@@ -56,4 +56,5 @@ int main()
     }
 
     return 0;
+    //esto es un programa
 }
